@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Meu nome é Hágata Mendes tenho 23 anos e sou de São Paulo Zona Leste !</p>
+<p align="left">Meu nome é Hágata Mendes tenho 23 anos e sou de São Paulo Zona Leste ♥</p>
 
 ###
 
@@ -59,15 +59,15 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HagataMendes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HagataMendes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HagataMendes&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="167" src="https://i.gifer.com/7LNJ.gif"  />
+<img src="https://raw.githubusercontent.com/HagataMendes/HagataMendes/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<img src="https://raw.githubusercontent.com/HagataMendes/HagataMendes/output/snake.svg" alt="Snake animation" />
+<img align="right" height="167" src="https://i.gifer.com/7LNJ.gif"  />
 
 ###
