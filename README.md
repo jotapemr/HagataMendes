@@ -67,3 +67,7 @@
 <img align="right" height="167" src="https://i.gifer.com/7LNJ.gif"  />
 
 ###
+
+<img src="https://raw.githubusercontent.com/HagataMendes/HagataMendes/output/snake.svg" alt="Snake animation" />
+
+###
