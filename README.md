@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Meu nome é Hágata Mendes tenho 23 anos e sou de São Paulo Zona Leste ♥</p>
+<p align="left">Meu nome é Hágata Mendes tenho 23 anos e sou Desenvolvedora Back End Jr e moro em São Paulo Zona Leste ♥</p>
 
 ###
 
@@ -17,6 +17,10 @@
 ###
 
 <h2 align="left">My Skills</h2>
+
+###
+
+<p align="left">Linguagens & Frameworks</p>
 
 ###
 
@@ -45,10 +49,6 @@
 ###
 
 <p align="left">DevOps</p>
-
-###
-
-<p align="left">Linguagens & Frameworks</p>
 
 ###
 
